@@ -13,7 +13,12 @@ from sklearn.ensemble import RandomForestClassifier
 
 app = Flask(__name__)
 
-DATASET = "ObesityDataSet_raw_and_data_sinthetic.csv"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+DATASET = os.path.join(
+    BASE_DIR,
+    "ObesityDataSet_raw_and_data_sinthetic.csv"
+)
 df = pd.read_csv(DATASET)
 
 print("=" * 60)
