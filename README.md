@@ -2,7 +2,7 @@
 
 # AI-Based Obesity Level Prediction System
 
-## 📌 Project Overview
+##  Project Overview
 
 The AI-Based Obesity Level Prediction System is a Machine Learning project that predicts a person's obesity level based on their physical characteristics and lifestyle habits.
 
@@ -10,7 +10,7 @@ The system uses the Obesity Dataset and a Random Forest Classifier to predict di
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The main objectives of this project are:
 
@@ -24,7 +24,7 @@ The main objectives of this project are:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The project uses:
 
@@ -57,7 +57,7 @@ The target variable represents the obesity level of a person.
 
 ---
 
-## 🧠 Machine Learning Model
+##  Machine Learning Model
 
 The project uses:
 
@@ -69,7 +69,7 @@ The model is trained using the input features and predicts the obesity category 
 
 ---
 
-## 🔄 Machine Learning Workflow
+##  Machine Learning Workflow
 
 ```text
 Dataset
